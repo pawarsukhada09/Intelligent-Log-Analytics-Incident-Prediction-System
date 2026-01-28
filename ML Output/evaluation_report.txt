@@ -1,0 +1,25 @@
+
+    ============================================
+    HDFS INCIDENT PREDICTION - MODEL EVALUATION
+    ============================================
+    
+    Model Type: random_forest
+    Training Date: 2026-01-27T18:04:33.263590
+    
+    Performance Metrics:
+    --------------------
+    Training Accuracy: 1.0000
+    Test Accuracy: 0.9583
+    Test Precision: 0.0000
+    Test Recall: 0.0000
+    Test F1 Score: 0.0000
+    Test AUC-ROC: 0.3261
+    
+    Dataset Information:
+    --------------------
+    Total Predictions: 24
+    Actual Incidents: 1
+    Predicted Incidents: 0
+    
+    ============================================
+    
